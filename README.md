@@ -1,6 +1,6 @@
 ### Hi, I'm Vania!
 
-- 📚 I’m a sophomore at IGDTUW
-- 🔭 I’m currently working as an Undergraduate Researcher at CoE in Advanced Mechatronic Systems
-- 🌱 I’m currently learning React.js and Object Oriented Programming
-- 📫 How to reach me: [My Mail](vania029btdmam22@igdtuw.ac.in)
+- Sophomore at Indira Gandhi Delhi Technical University for Women
+- Currently learning React.js, Object Oriented Programming and Operating Systems
+- Interested in Machine Learning, Natural Language processing and Gen-AI
+- How to reach me: [My Mail](vania029btdmam22@igdtuw.ac.in)
